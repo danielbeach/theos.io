@@ -11,6 +11,6 @@ An important piece will be making the New King James Version of the bible, which
 
 # Tech Stack 
 We will have 3 servers. All hosted on Linode. They can be accessed via ssh. Example -  `ssh root@69.164.204.229`
-   - 1 ElasticSearch - `198.58.97.244`
-   - 1 Postgres database (to store auxilary info about books and authors - `69.164.204.229`
-   - 1 front end webserver like django. `104.237.143.100`
+   - 1 ElasticSearch - 
+   - 1 Postgres database (to store auxilary info about books and authors - 
+   - 1 front end webserver like django. 
